@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  color: #d2691e;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+}
+
+.logo-footer {
+  width: 60px;
+  height: 60px;
+}
+
+footer {
+  background-color: #333;
+}
+
+footer p {
+  margin: 0;
+}
